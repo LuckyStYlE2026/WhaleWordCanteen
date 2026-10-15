@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "ui": {
+    "language": "zh-CN",
+    "resolution": [
+      1280,
+      720
+    ],
+    "fullscreen": false,
+    "theme": "light",
+    "character_scale": 1.4,
+    "character_anchor_x": 0.995,
+    "character_anchor_y": 0.67,
+    "panel_image": "",
+    "panel_opacity": 0.5,
+    "dialog_opacity": 0.74
+  },
+  "study": {
+    "force_semantic_match": true,
+    "daily_due_limit": 50,
+    "exam_size": 20,
+    "max_api_calls_per_session": 20,
+    "batch_size": 20,
+    "page_size": 5,
+    "result_pack_mode": "none"
+  },
+  "ai": {
+    "enabled": false,
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-flash",
+    "api_key": "",
+    "timeout_s": 20
+  }
+}

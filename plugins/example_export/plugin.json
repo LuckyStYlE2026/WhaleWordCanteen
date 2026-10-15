@@ -1,0 +1,8 @@
+{
+  "name": "example_export",
+  "version": "1.0.0",
+  "author": "示例",
+  "description": "给词表增加一种 Markdown 导出格式。同时是插件模板,照着改就能做自己的插件。",
+  "api_version": 1,
+  "entry": "__init__"
+}
